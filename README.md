@@ -39,9 +39,9 @@ Existen varios formatos de tarjetas de memoria, siendo los más comunes:
 
 | Modelo | Imagen | Características Técnicas | Categoría |
 | :--- | :---: | :--- | :--- |
-| **Samsung EVO Plus** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samsung_EVO_Plus_64GB_microSDXC_card_-_3.jpg/320px-Samsung_EVO_Plus_64GB_microSDXC_card_-_3.jpg" width="150"> | Tarjeta microSDXC con adaptador. Resistente al agua y rayos X. Velocidad UHS-I. | Almacenamiento |
-| **SanDisk Extreme Pro** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SANDISK_Extreme_Pro_CompactFlash_card_32_GB_90_MBs.jpg/320px-SANDISK_Extreme_Pro_CompactFlash_card_32_GB_90_MBs.jpg" width="150"> | Tarjeta CompactFlash de alto rendimiento (90 MB/s) para cámaras DSLR profesionales. | Almacenamiento |
-| **SanDisk Extreme microSD** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SanDisk_Extreme_microSDHC_Card%2C_32GB.png/320px-SanDisk_Extreme_microSDHC_Card%2C_32GB.png" width="150"> | Tarjeta microSDHC diseñada para grabación de vídeo 4K y entornos extremos. | Almacenamiento |
+| **Samsung EVO Plus** | Tarjeta microSDXC con adaptador. Resistente al agua y rayos X. Velocidad UHS-I. | Almacenamiento |
+| **SanDisk Extreme Pro** | Tarjeta CompactFlash de alto rendimiento (90 MB/s) para cámaras DSLR profesionales. | Almacenamiento |
+| **SanDisk Extreme microSD** | Tarjeta microSDHC diseñada para grabación de vídeo 4K y entornos extremos. | Almacenamiento |
 
 ---
 
