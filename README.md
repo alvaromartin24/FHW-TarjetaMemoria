@@ -7,11 +7,8 @@ Este repositorio contiene el trabajo sobre periféricos para la asignatura de **
 ## 1.- Definición del períférico
 Se considera periférico al conjunto de dispositivos que, sin pertenecer al núcleo fundamental de la computadora (CPU y memoria RAM), permiten realizar operaciones de entrada/salida (E/S) complementarias al proceso de datos. Las **tarjetas de memoria** son periféricos de almacenamiento no volátil utilizados para guardar datos de forma portátil.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/800px-Von_Neumann_Architecture.svg.png" width="450" alt="Arquitectura Von Neumann">
-  <br>
-  <em>Arquitectura de Von Neumann: El núcleo central y sus periféricos de E/S.</em>
-</p>
+<img width="266" height="190" alt="imagen" src="https://github.com/user-attachments/assets/ead0a930-92c3-4abf-83e8-29054389f676" />
+
 
 ---
 
@@ -20,6 +17,9 @@ Se considera periférico al conjunto de dispositivos que, sin pertenecer al núc
 * **Portabilidad:** Son dispositivos pequeños y ligeros, ideales para transportar datos entre equipos (cámaras, móviles, PCs).
 * **Capacidad y Velocidad:** Varían según el estándar (SD, SDHC, SDXC) y la clase (Class 10, UHS-I, UHS-II).
 * **Dependencia:** Se conectan a través de ranuras específicas o lectores de tarjetas (Unidad de E/S).
+
+<img width="256" height="197" alt="imagen" src="https://github.com/user-attachments/assets/3fb2fb1c-d920-4ae1-9ed7-2ccb9acdd31e" />
+
 
 ---
 
@@ -30,11 +30,8 @@ Existen varios formatos de tarjetas de memoria, siendo los más comunes:
 2.  **microSD:** La versión más pequeña, predominante en teléfonos móviles y tablets.
 3.  **CompactFlash (CF):** Un formato más antiguo y robusto, usado en fotografía profesional de alta gama.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SD_card%2C_miniSD_card_and_microSD_card.jpg/640px-SD_card%2C_miniSD_card_and_microSD_card.jpg" width="400" alt="Comparativa de tarjetas SD">
-  <br>
-  <em>De izquierda a derecha: Tarjeta SD, miniSD y microSD.</em>
-</p>
+<img width="183" height="275" alt="imagen" src="https://github.com/user-attachments/assets/24ee0508-75e6-43e9-9950-5b58f852d340" />
+
 
 ---
 
