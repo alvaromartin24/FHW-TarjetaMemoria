@@ -39,7 +39,8 @@ Existen varios formatos de tarjetas de memoria, siendo los más comunes:
 
 | Modelo | Imagen | Características Técnicas | .
 | :--- | :---: | :--- | :--- |
-| **Samsung EVO Plus** | Tarjeta microSDXC con adaptador. Resistente al agua y rayos X. Velocidad UHS-I. | Almacenamiento |
+| **Samsung EVO Plus** | Tarjeta microSDXC con adaptador. Resistente al agua y rayos X. Velocidad UHS-I. | Almacenamiento | <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/8b8341d2-6eef-4ddb-8c6d-93c1412756f6" />
+
 | **SanDisk Extreme Pro** | Tarjeta CompactFlash de alto rendimiento (90 MB/s) para cámaras DSLR profesionales. | Almacenamiento |
 | **SanDisk Extreme microSD** | Tarjeta microSDHC diseñada para grabación de vídeo 4K y entornos extremos. | Almacenamiento |
 
