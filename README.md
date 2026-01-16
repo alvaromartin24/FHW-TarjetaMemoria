@@ -18,7 +18,8 @@ Se considera periférico al conjunto de dispositivos que, sin pertenecer al núc
 * **Capacidad y Velocidad:** Varían según el estándar (SD, SDHC, SDXC) y la clase (Class 10, UHS-I, UHS-II).
 * **Dependencia:** Se conectan a través de ranuras específicas o lectores de tarjetas (Unidad de E/S).
 
-<img width="256" height="197" alt="imagen" src="https://github.com/user-attachments/assets/3fb2fb1c-d920-4ae1-9ed7-2ccb9acdd31e" />
+<img width="279" height="180" alt="image" src="https://github.com/user-attachments/assets/683ada4c-166d-434d-8ec6-a4bb543a23ad" />
+
 
 
 ---
