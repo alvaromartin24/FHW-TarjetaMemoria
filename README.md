@@ -9,6 +9,8 @@ Las tarjetas de memoria son periféricos de almacenamiento masivo basados en mem
 
 A diferencia de los discos duros mecánicos, no tienen piezas móviles, lo que las hace extremadamente resistentes a golpes y muy compactas.
 
+<img width="256" height="197" alt="image" src="https://github.com/user-attachments/assets/b69baa11-bace-4b70-b79c-3dd5b4c33d13" />
+
 
 ---
 
