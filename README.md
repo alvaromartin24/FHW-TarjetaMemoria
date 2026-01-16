@@ -5,9 +5,9 @@ Este repositorio contiene el trabajo sobre periféricos para la asignatura de **
 ---
 
 ## 1.- Definición del períférico
-Se considera periférico al conjunto de dispositivos que, sin pertenecer al núcleo fundamental de la computadora (CPU y memoria RAM), permiten realizar operaciones de entrada/salida (E/S) complementarias al proceso de datos. Las **tarjetas de memoria** son periféricos de almacenamiento no volátil utilizados para guardar datos de forma portátil.
+Las tarjetas de memoria son periféricos de almacenamiento masivo basados en memoria flash (tecnología de estado sólido). Se consideran dispositivos de entrada/salida (E/S) o simplemente de almacenamiento secundario, ya que permiten leer y escribir datos de forma no volátil, es decir, la información no se borra al retirar la energía.
 
-<img width="266" height="190" alt="imagen" src="https://github.com/user-attachments/assets/ead0a930-92c3-4abf-83e8-29054389f676" />
+A diferencia de los discos duros mecánicos, no tienen piezas móviles, lo que las hace extremadamente resistentes a golpes y muy compactas.
 
 
 ---
